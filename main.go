@@ -8,9 +8,9 @@ import (
 
 	"github.com/gorilla/pat"
 	"github.com/ian-kent/go-log/log"
+	"github.com/kbabuadze/MailHog-UI/assets"
 	"github.com/kbabuadze/MailHog-UI/config"
-	"github.com/mailhog/MailHog-UI/assets"
-	"github.com/mailhog/MailHog-UI/web"
+	"github.com/kbabuadze/MailHog-UI/web"
 	comcfg "github.com/mailhog/MailHog/config"
 	"github.com/mailhog/http"
 )
